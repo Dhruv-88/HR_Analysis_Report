@@ -1,6 +1,6 @@
 # HR_Analysis_Report
 
-##Dashboard : [Live Dashboard](https://public.tableau.com/app/profile/dhruv.patel6714/viz/hranalysis_17132009550580/Dashboard1?publish=yes) 
+## Dashboard : [Live Dashboard](https://public.tableau.com/app/profile/dhruv.patel6714/viz/hranalysis_17132009550580/Dashboard1?publish=yes) 
 
 The analytics dashboard designed for IBM focuses on providing targeted insights crucial for optimizing employee retention strategies. Tailored specifically for Human Resources Managers and Senior Executives, this dashboard offers a comprehensive view of factors contributing to employee attrition within the company. Through detailed analyses spanning demographics, such as age, gender, generation, and education, to tenure, past corporate records, and other professional career-related aspects.
 
